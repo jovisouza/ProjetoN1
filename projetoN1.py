@@ -7,9 +7,12 @@ listaDeEmails = []
 listaDeEmails = list 
 listaDeEmails = listaDeEmails.append(input('digite seu email:'))
 def main():
-print(listaDeEmails)
-print(listaDeNomes)
+  print(listaDeEmails)
+  print(listaDeNomes)
 
 desvio condicional padrão
 if name == "main":
 main()
+
+print(len(listaDeEmails))
+print(len(listaDeNomes))
