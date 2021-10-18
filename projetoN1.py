@@ -16,3 +16,6 @@ main()
 
 print(len(listaDeEmails))
 print(len(listaDeNomes))
+
+print(sorted(listaDeEmails))
+print(sorted(listaDeNomes))
