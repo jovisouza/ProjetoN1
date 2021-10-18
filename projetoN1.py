@@ -19,3 +19,9 @@ print(len(listaDeNomes))
 
 print(sorted(listaDeEmails))
 print(sorted(listaDeNomes))
+
+nome = input('digite um nome especifico :')
+print(listaDeNomes. index(nome))
+
+email = input('digite um nome especifico :')
+print(listaDeEmails. index(email))
